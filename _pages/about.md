@@ -20,7 +20,7 @@ last_modified_at: 2020-09-05
 
 ## Education
 
-**Kyungpook National University**
+> **Kyungpook National University**
 
 _Computer Science and Engineering_
 
@@ -32,7 +32,7 @@ _Computer Science and Engineering_
 
 ## Activities
 
-**IBM C:LOUDERs**
+> **IBM C:LOUDERs**
 
 _Project Manager_
 
@@ -42,7 +42,7 @@ _Project Manager_
 
 ## Projects
 
-**OCOL**
+> **OCOL**
 
 _Editor_
 
@@ -50,7 +50,7 @@ _Editor_
 - Send newsletter about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
 
-**Pie Planet**
+> **Pie Planet**
 
 _Leader of Programming Team_
 
