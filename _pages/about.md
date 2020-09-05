@@ -16,6 +16,7 @@ last_modified_at: 2020-09-05
 ---
 
 ---
+![p2_png](assets/images/p.png)
 
 ## Education
 
