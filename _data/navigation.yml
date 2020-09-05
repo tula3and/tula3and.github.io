@@ -1,0 +1,20 @@
+# main links
+? main
+: - title: "About"
+    url: /about/
+  - title: "Category"
+    url: /categories/
+  - title: "Monthly"
+    url: /collection-archive/
+### SERIES ###
+# nav name:
+#  - title: ""
+#    children:
+#      - title: ""
+#        url:
+#  - title: ""
+#    children:
+#      - title: ""
+#        url:
+#      - title: ""
+#        url :
