@@ -55,5 +55,5 @@ _Editor_
 _Leader of Programming Team_
 
 - May 2020 — July 2020
-- Team project for [GIGDC 2020](http://www.gigdc.or.kr/main.php)
+- Team project for [GIGDC 2020](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=)
 - Story-based game made with Unity2D
