@@ -1,1 +1,1 @@
-[TULA Log [Click]](https://tula3and.github.io)
+This is my github blog, [TULA Log](https://tula3and.github.io).
