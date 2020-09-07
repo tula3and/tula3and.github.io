@@ -15,11 +15,13 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2020-09-05
 ---
 
-> **DAYEONG KANG**
+---
+
+![header.png](https://github.com/tula3and/tula3and.github.io/blob/master/assets/images/header.png?raw=true)
 
 ## **Education**
 
-**Kyungpook National University**
+> **Kyungpook National University**
 
 *Computer Science and Engineering*
 
@@ -31,7 +33,9 @@ last_modified_at: 2020-09-05
 
 ## Activity
 
-**IBM C:LOUDERs** — *Project Manager*
+> **IBM C:LOUDERs**
+
+*Project Manager*
 
 - July 2020 — Present
 - PM in self-organized study group, ZUA
@@ -39,15 +43,17 @@ last_modified_at: 2020-09-05
 
 ## **Project**
 
-**OCOL** — *Editor*
+> **OCOL**
+
+*Editor*
 
 - August 2020 — Present
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
 
-<br/>
+> **Pie Planet**
 
-**Pie Planet** — *Leader of Programming Team*
+*Leader of Programming Team*
 
 - May 2020 — July 2020
 - Made [a interactive story game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) with Unity2D
