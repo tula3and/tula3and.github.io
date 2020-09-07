@@ -16,44 +16,37 @@ last_modified_at: 2020-09-05
 ---
 
 ---
-![p.png](https://github.com/tula3and/tula3and.github.io/blob/master/assets/images/p.png?raw=true)
+> **DAYEONG KANG**
 
-## Education
+## **Education**
 
-> **Kyungpook National University**
+**Kyungpook National University**
 
-_Computer Science and Engineering_
+*Computer Science and Engineering*
 
 - March 2020 — Present
 - Cumulative GPA: 4.17 / 4.3
 - Undergraduate fellowship (merit-based)
-  - Admission with highest distinction
-  - Full tuition (granted for full semesters)
+    - Admission with highest distinction
+    - Full tuition (granted for full semesters)
 
-## Activities
+## Activity
 
-> **IBM C:LOUDERs**
-
-_Project Manager_
+**IBM C:LOUDERs** — *Project Manager*
 
 - July 2020 — Present
 - PM in self-organized study group, ZUA
-  - Translate lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
+    - Translate lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
 
-## Projects
+## **Project**
 
-> **OCOL**
-
-_Editor_
+**OCOL** — *Editor*
 
 - August 2020 — Present
-- Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
-- Write articles about security in [Medium](https://medium.com/ocol)
+- Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
+- Write articles about security in [Medium](https://medium.com/ocol)
 
-> **Pie Planet**
-
-_Leader of Programming Team_
+**Pie Planet** — *Leader of Programming Team*
 
 - May 2020 — July 2020
-- Team project for [GIGDC 2020](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=)
-- Story-based game made with Unity2D
+- Made [a interactive story game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) with Unity2D
