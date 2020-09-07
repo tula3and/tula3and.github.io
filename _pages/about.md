@@ -15,7 +15,6 @@ excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 last_modified_at: 2020-09-05
 ---
 
----
 > **DAYEONG KANG**
 
 ## **Education**
@@ -45,6 +44,8 @@ last_modified_at: 2020-09-05
 - August 2020 — Present
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
+
+<br/>
 
 **Pie Planet** — *Leader of Programming Team*
 
