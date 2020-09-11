@@ -56,4 +56,4 @@ last_modified_at: 2020-09-07
 *Leader of Programming Team*
 
 - May 2020 — July 2020
-- Made [a interactive story game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) with Unity2D
+- [An adventure game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) made with Unity2D
