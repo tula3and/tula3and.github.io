@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2020-09-13
 author_profile: true
 ---
-I want to change from just gray icon to my tula icon. While googling some tutorials, I found the word, "favicon".
+I want to change from just a gray icon to my tula icon. While googling some tutorials, I found the word, "favicon".
 
 ## 1. What is a favicon?
 
