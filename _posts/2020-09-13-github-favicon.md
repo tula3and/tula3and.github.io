@@ -33,3 +33,7 @@ Then, you should add `{{site.baseurl}}/assets/logo.ico` after the codes, `href=`
 ![tula_favicon.png](https://user-images.githubusercontent.com/62553200/93010976-1a813e80-f5cd-11ea-84bd-ea87f1440abb.png)
 
 After commit all these things, you can check your beautiful favicon!
+
+---
+
+💬 *Any comments and suggestions will be appreciated.*
