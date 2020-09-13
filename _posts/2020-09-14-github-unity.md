@@ -65,4 +65,6 @@ Add using `file type` or `folder name/**`.<br/>
 
 Then, you just commit the changes and check files on Github.<br/>
 
+---
+
 *Any comments and suggestions will be appreciated.*
