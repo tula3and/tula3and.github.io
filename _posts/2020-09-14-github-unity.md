@@ -11,7 +11,7 @@ last_modified_at: 2020-09-14
 author_profile: true
 ---
 While I uploaded Unity project files, I faced a error.<br/>
-"`this is larger than GitHub's recommended maximum file size of 50.00 MB`".<br/>
+"`this is larger than GitHub's recommended maximum file size of 50.00 MB`"<br/>
 
 The solution for this error is using [Git Large File Storage](https://git-lfs.github.com/), in short, Git LFS.<br/>
 In this post, I will share two ways to connect Unity projects with Github; Git and Sourcetree.<br/>
