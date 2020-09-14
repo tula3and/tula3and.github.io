@@ -30,8 +30,9 @@ You can see `Generating public/private rsa key pair.` and finish making your SSH
 
 ## 3. Copy the public key
 
-(For Mac, Linux) `pbcopy < ~/.ssh/id_rsa.pub`<br/>
-(For Windows) `cat ~/.ssh/id_rsa.pub | clip`<br/>
+(For Mac) `pbcopy < ~/.ssh/id_rsa.pub`<br/>
+(For Linux) (1) `xclip -sel clip < ~/.ssh/id_rsa.pub` or (2) `cat ~/.ssh/id_rsa.pub` and copy the output.<br/>
+(For Windows) `cat ~/.ssh/id_rsa.pub | clip`
 
 ## 4. Add to Github
 
