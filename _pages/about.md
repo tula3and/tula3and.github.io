@@ -51,7 +51,7 @@ last_modified_at: 2020-09-07
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
 
-> **Pie Planet**
+> [**Pie Planet**](https://github.com/tula3and/pie_planet)
 
 *Leader of Programming Team*
 
