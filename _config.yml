@@ -18,6 +18,7 @@ minimal_mistakes_skin: "air" # "default","air", "aqua", "contrast", "dark", "dir
 locale: "en-US"
 title: "TULA Log"
 title_separator: "-"
+subtitle: "in the ocean of curiosity"
 name: "TULA"
 description: "Dayeong Kang"
 url: "https://tula3and.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
