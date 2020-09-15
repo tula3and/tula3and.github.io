@@ -16,7 +16,7 @@ minimal_mistakes_skin: "air" # "default","air", "aqua", "contrast", "dark", "dir
 
 # Site Settings
 locale: "en-US"
-title: ""
+title: "TULA Log"
 title_separator: "-"
 name: "TULA"
 description: "Dayeong Kang"
@@ -24,7 +24,7 @@ url: "https://tula3and.github.io" # the base hostname & protocol for your site e
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "tula3and/tula3and.github.io"
 teaser: #"/assets/images/p1.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/TULA_blog_black.png"
+logo: "/assets/images/TULA_blog_blue.png"
 masthead_title: "" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
