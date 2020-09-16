@@ -5,8 +5,9 @@
   - title: "Category"
     url: /categories/
   - title: "Monthly"
-    url: /collection-archive/
-### SERIES ###
+    url: /monthly/
+
+# series
 # nav name:
 #  - title: ""
 #    children:
