@@ -8,16 +8,3 @@
     url: /collection-archive/
 
 # series
-Qiskit:
-  - title: "Learn Qiskit (Eng)"
-    children:
-      - title: "1. Let's start Qiskit"
-        url: 
-      - title: "<inline title>"
-        url: 
-  - title: "Learn Qiskit (Kor)"
-    children:
-      - title: "1. Qiskit 시작하기"
-        url: 
-      - title: "<inline title>"
-        url: -
