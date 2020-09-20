@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: http://gruuuuu.github.io/sitemap.xml
