@@ -58,6 +58,8 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 ```
 pip install qiskit
 ```
+>Anaconda의 가상 환경 관련 명령은 [이 문서](https://github.com/tula3and/til/blob/master/Qiskit/Anaconda.md#using-anaconda)를 참고해주세요.
+
 Qiskit이 설치 완료되면 Jupyter Notebook을 열어서 설치가 잘 되었는지 확인해봅시다.
 ```
 jupyter notebook
