@@ -2,7 +2,7 @@
 
 - :writing_hand: Welcome to [my Gihub blog](https://tula3and.github.io/)!
   - What I write about
-    - 
+    - Project
     - Qiskit
     - Github
   - Run [another blog](https://tula3and.tistory.com/) in Korean
