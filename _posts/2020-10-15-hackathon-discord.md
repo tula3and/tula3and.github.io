@@ -58,7 +58,7 @@ nano index.html
 ```
 
 You can check our `index.html` codes here:
-[quantum-ugly-duckling/quantum-ugly-duckling-main/static/index.html](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/static/index.html)
+[quantum-ugly-duckling/quantum-ugly-duckling-main/static/index.html](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/static/index.html).
 
 Then, come back to the main folder and let's deploy it.
 
@@ -122,7 +122,7 @@ Check also `form` tag in `index.html`.
 ## Make a discord bot and host with Heroku
 
 You can check our `discord_bot.py` codes here:
-[quantum-ugly-duckling/quantum-ugly-duckling-main/discord_bot.py](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/discord_bot.py)<br/>
+[quantum-ugly-duckling/quantum-ugly-duckling-main/discord_bot.py](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/discord_bot.py)<br/>.
 
 We choose [Heroku](https://www.heroku.com/) for hosting our bot.<br/>
 For uploading codes, we used Heroku CLI.<br/>
@@ -147,7 +147,7 @@ If `runtime.txt` doesn't exist, you can meet `RuntimeError`.
 
 ![error](https://user-images.githubusercontent.com/62553200/96069480-439d3380-0ed9-11eb-9232-e7eaa688217e.png)
 
-If you are clear that all files are there, you can follow the codes below.<br/>
+>You can follow all logs of your deployed app using `heroku logs --tail`.
 
 ```
 heroku login -i
