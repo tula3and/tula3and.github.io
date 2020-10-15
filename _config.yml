@@ -154,7 +154,6 @@ og_image: # Open Graph/Twitter default site image
 : - .htaccess
   - _pages
   - _docs
-  - _plugins
 ? exclude
 : - "*.sublime-project"
   - "*.sublime-workspace"
