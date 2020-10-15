@@ -134,6 +134,8 @@ curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 
 After installing it, follow the codes below.<br/>
 
+---
+
 ### ❗ Before following
 
 Check that 4 files are in the folder.<br/>
@@ -148,6 +150,8 @@ If `runtime.txt` doesn't exist, you can meet `RuntimeError`.
 ![error](https://user-images.githubusercontent.com/62553200/96069480-439d3380-0ed9-11eb-9232-e7eaa688217e.png)
 
 >You can follow all logs of your deployed app using `heroku logs --tail`.
+
+---
 
 ```
 heroku login -i
