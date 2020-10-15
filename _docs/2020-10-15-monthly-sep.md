@@ -8,7 +8,7 @@ last_modified_at: 2020-10-15
 author_profile: true
 ---
 September 2020 Review.<br/>
-With [`Bad Words - Tobias Jesso Jr.`](https://youtu.be/ck0nthkUdCo)
+With [Bad Words - Tobias Jesso Jr.](https://youtu.be/ck0nthkUdCo)
 
 ## Can I ask a question?
 
