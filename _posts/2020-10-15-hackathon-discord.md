@@ -122,7 +122,7 @@ Check also `form` tag in `index.html`.
 ## Make a discord bot and host with Heroku
 
 You can check our `discord_bot.py` codes here:
-[quantum-ugly-duckling/quantum-ugly-duckling-main/discord_bot.py](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/discord_bot.py)<br/>.
+[quantum-ugly-duckling/quantum-ugly-duckling-main/discord_bot.py](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/quantum-ugly-duckling-main/discord_bot.py).<br/>
 
 We choose [Heroku](https://www.heroku.com/) for hosting our bot.<br/>
 For uploading codes, we used Heroku CLI.<br/>
