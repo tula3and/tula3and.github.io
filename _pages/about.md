@@ -39,7 +39,7 @@ last_modified_at: 2020-09-07
 
 - July 2020 — Present
 - PM in self-organized study group, ZUA
-    - Translate lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
+    - Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
 
 ## **Project**
 
@@ -51,9 +51,18 @@ last_modified_at: 2020-09-07
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
 
+> [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
+
+*Developer*
+
+- October 2020
+- Qiskit Hackathon Global
+- Make a discord bot for qadjokes: [details](https://tula3and.github.io/hackathon/hackathon-discord/)
+
 > [**Pie Planet**](https://github.com/tula3and/pie_planet)
 
 *Leader of Programming Team*
 
 - May 2020 — July 2020
 - [An adventure game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) made with Unity2D
+
