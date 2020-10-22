@@ -48,7 +48,7 @@ last_modified_at: 2020-10-17
 *Developer*
 
 - October 2020
-- Qiskit Hackathon Global
+- [Qiskit Hackathon Global 2020](https://github.com/tula3and/tula3and/blob/master/Certificate/ParticipationCertificate_QiskitHackathonGlobal_DayeongK.pdf)
 - Make a discord bot for qadjokes: [details](https://tula3and.github.io/hackathon/hackathon-discord/)
 
 > [**Pie Planet**](https://github.com/tula3and/pie_planet)
