@@ -7,7 +7,7 @@ tags:
   - Quantum Computing
 sidebar:
   - nav: Qiskit Tutorial
-last_modified_at: 2020-09-20
+last_modified_at: 2020-10-24
 author_profile: true
 ---
 Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅시다.
@@ -48,6 +48,16 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 ![수식1](https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%7C%5Cpsi%3E%20%3D%20%5Calpha%7C0%3E&plus;%20%5Cbeta%20%7C1%3E)<br/>
 
 ![수식2](https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%7C%5Cpsi%3E%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D)<br/>
+
+위와 같은 `ket` 형식이 아닌 `bra` 형식으로 나타낼 경우, 켤레 복소수로 취급됩니다.<br/>
+
+![dagger](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%20%7C%20%3D%20%5Cbinom%7B%5Calpha%20%7D%7B%5Cbeta%20%7D%5E%5Cdagger%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
+
+따라서 `bra`와 `ket` 형식이 백터 곱으로 나타날 경우 다음과 같이 계산 됩니다.<br/>
+
+![bra-ket](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%20%7C%20%5Ccdot%20%7C%20%5Cpsi%3E%20%3D%20%3C%5Cpsi%20%7C%20%5Cpsi%3E%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%20%5Ccdot%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%3D%20%5Calpha%5E%5Cdagger%20%5Calpha%20&plus;%20%5Cbeta%5E%5Cdagger%20%5Cbeta)<br/>
+
+![ket-bra](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%20%3E%20%5Ccdot%20%3C%20%5Cpsi%7C%20%3D%20%7C%5Cpsi%20%3E%3C%20%5Cpsi%7C%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%5Ccdot%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5Calpha%5E%5Cdagger%20%26%20%5Calpha%5Cbeta%5E%5Cdagger%5C%5C%20%5Cbeta%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
 
 ## 3. 이제 Qiskit을 설치합시다!
 
