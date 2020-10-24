@@ -30,34 +30,34 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 이러한 Qubit의 상태를 표현하기 위해 `확률`의 개념이 도입됩니다.<br/>
 이때의 확률이란 건 0과 1에 부여된 각각의 `확률 진폭(probability amplitude)`을 이용해서 구할 수 있습니다.
 
-확률 진폭 ![r](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20r)은 하나의 복소수 값으로,
-![복소수](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20r%20%3D%20a%20&plus;%20bi)의 형태로 나타낼 수 있습니다.<br/>
-확률 진폭의 켤레 복소수를 이용하여, 확률 ![p](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20p)를 구합니다.<br/>
+확률 진폭 ![r](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20r)은 하나의 복소수 값으로,
+![복소수](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20r%3Da&plus;bi)의 형태로 나타낼 수 있습니다.<br/>
+확률 진폭의 켤레 복소수를 이용하여, 확률 ![p](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20p)를 구합니다.<br/>
 
-![수식](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20p%20%3D%20%7C%7Cr%7C%7C%5E2%20%3D%20%28a&plus;bi%29%28a-bi%29%20%3D%20a%5E2%20&plus;%20b%5E2)<br/>
+![수식](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20p%20%3D%20%7C%7Cr%7C%7C%5E2%20%3D%20%28a&plus;bi%29%28a-bi%29%20%3D%20a%5E2&plus;b%5E2)<br/>
 
-위의 수식으로 확률 진폭의 값이 ![확률 진폭](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20a&plus;bi)일 때,
-확률의 값은 ![확률](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20a%5E2%20&plus;%20b%5E2)인 것을 알 수 있습니다.<br/>
+위의 수식으로 확률 진폭의 값이 ![확률 진폭](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20a&plus;bi)일 때,
+확률의 값은 ![확률](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20a%5E2&plus;b%5E2)인 것을 알 수 있습니다.<br/>
 
 예를 들어 확률 진폭을 &alpha;, 그에 해당되는 상태가 0이라고 가정해봅시다.<br/>
 이런 상태를 보통 [bra-ket notation](https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation)을 이용해
-![alpha](https://latex.codecogs.com/gif.latex?%5Cdpi%7B100%7D%20%5Calpha%7C0%3E)으로 나타냅니다.<br/>
+![alpha](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%5Calpha%7C0%3E)으로 나타냅니다.<br/>
 
 그래서 Qubit &psi;에 대해 아래와 같이 두 가지 방법으로 나타낼 수 있습니다.<br/>
 
-![수식1](https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%7C%5Cpsi%3E%20%3D%20%5Calpha%7C0%3E&plus;%20%5Cbeta%20%7C1%3E)<br/>
+![수식1](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%7C%5Cpsi%20%3E%20%3D%20%5Calpha%7C0%3E&plus;%5Cbeta%7C1%3E)<br/>
 
-![수식2](https://latex.codecogs.com/gif.latex?%5Cfn_cm%20%7C%5Cpsi%3E%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D)<br/>
+![수식2](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%7C%5Cpsi%20%3E%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D)<br/>
 
 위와 같은 `ket` 형식이 아닌 `bra` 형식으로 나타낼 경우, 켤레 복소수로 취급됩니다.<br/>
 
-![dagger](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%20%7C%20%3D%20%5Cbinom%7B%5Calpha%20%7D%7B%5Cbeta%20%7D%5E%5Cdagger%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
+![dagger](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%3C%5Cpsi%20%7C%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%5E%5Cdagger%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
 
 따라서 `bra`와 `ket` 형식이 백터 곱으로 나타날 경우 다음과 같이 계산 됩니다.<br/>
 
-![bra-ket](https://latex.codecogs.com/gif.latex?%3C%5Cpsi%20%7C%20%5Ccdot%20%7C%20%5Cpsi%3E%20%3D%20%3C%5Cpsi%20%7C%20%5Cpsi%3E%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%20%5Ccdot%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%3D%20%5Calpha%5E%5Cdagger%20%5Calpha%20&plus;%20%5Cbeta%5E%5Cdagger%20%5Cbeta)<br/>
+![bra-ket](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%3C%5Cpsi%20%7C%5Ccdot%20%7C%5Cpsi%3E%20%3D%20%3C%5Cpsi%20%7C%5Cpsi%3E%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%5Ccdot%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%3D%20%5Calpha%5E%5Cdagger%5Calpha%20&plus;%5Cbeta%5E%5Cdagger%5Cbeta)<br/>
 
-![ket-bra](https://latex.codecogs.com/gif.latex?%7C%5Cpsi%20%3E%20%5Ccdot%20%3C%20%5Cpsi%7C%20%3D%20%7C%5Cpsi%20%3E%3C%20%5Cpsi%7C%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%5Ccdot%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5Calpha%5E%5Cdagger%20%26%20%5Calpha%5Cbeta%5E%5Cdagger%5C%5C%20%5Cbeta%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
+![ket-bra](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%7C%5Cpsi%3E%20%5Ccdot%20%3C%5Cpsi%20%7C%3D%20%7C%5Cpsi%3E%20%3C%5Cpsi%7C%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D%20%5Ccdot%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D%20%3D%20%5Cbegin%7Bpmatrix%7D%20%5Calpha%5Calpha%5E%5Cdagger%20%26%20%5Calpha%5Cbeta%5E%5Cdagger%5C%5C%20%5Cbeta%5Calpha%5E%5Cdagger%20%26%20%5Cbeta%5Cbeta%5E%5Cdagger%20%5Cend%7Bpmatrix%7D)<br/>
 
 ## 3. 이제 Qiskit을 설치합시다!
 
