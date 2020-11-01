@@ -18,14 +18,16 @@ With The One - Sam Kim / [Live Performance](https://youtu.be/kvyq6JKOyME) / [Off
 >Actually, this is my first Hackathon! Looking forward to meeting you all✨
 
 This is my greeting in the hackathon.
-I did the project about a Quantum Random Number Generator using only noise: [quantum-ugly-duckling](https://github.com/rochisha0/quantum-ugly-duckling).
+I did the project about a Quantum Random Number Generator using only noise.
 (A QRNG has a big impact on Quantum Cryptography! Usually the QRNG is with H gates:
 [make random numbers with H gate](https://github.com/tula3and/til/blob/master/Qiskit/Quantum-random-number-generator.md).)
-I did not work the circuit but a website, a database, and a Discord bot: [details](https://tula3and.github.io/hackathon/hackathon-discord/).
-Although our team did not get the prize, our project is on
-[the article in Qiskit Medium](https://medium.com/qiskit/these-amazing-quantum-computing-ideas-came-out-of-our-landmark-qiskit-hackathon-global-905a0063f8e5)
+I did not work the circuit but a website, a database, and a Discord bot.
+Although our team did not get the prize, our project is on the article in Qiskit Medium
 and will be uploaded soon in [Full-Stack Quantum Computation](https://fullstackquantumcomputation.tech./)!
-Our lovely duck is still working now and will happily be your Discord server. 
+Our lovely duck is still working now and will happily be your Discord server.
+
+- Details of my work: [Make a discord bot for qadjokes](https://tula3and.github.io/hackathon/hackathon-discord/)
+- Qiskit Medium: [These Amazing Quantum Computing Ideas Came Out Of Our Landmark Qiskit Hackathon Global](https://medium.com/qiskit/these-amazing-quantum-computing-ideas-came-out-of-our-landmark-qiskit-hackathon-global-905a0063f8e5)
 
 ## Start from the basics of quantum computing
 
