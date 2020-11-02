@@ -2,8 +2,6 @@
 title: "2020.09."
 docs: 
   - Docs
-tags:
-  - Monthly
 last_modified_at: 2020-10-15
 author_profile: true
 ---
