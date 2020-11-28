@@ -7,7 +7,7 @@ tags:
   - Qiskit
   - Discord
   - Heroku
-last_modified_at: 2020-10-15
+last_modified_at: 2020-11-28
 author_profile: true
 ---
 I participated in Qiskit Hackathon Global, from October 5 to October 10.<br/>
@@ -118,6 +118,15 @@ Check also `form` tag in `index.html`.
 ```
 <form action="./index.html">
 ```
+
+---
+
+### ❗ If you want to download Cloudant data to local PC
+
+1. Go to Cloudant Dashboard.
+2. Click the `{}JSON` button and login with credentials.
+3. Copy all the texts: `Ctrl` + `a`
+4. Paste them all here: [JSON to CSV Converter Online](https://json-csv.com/)
 
 ## Make a discord bot and host with Heroku
 
