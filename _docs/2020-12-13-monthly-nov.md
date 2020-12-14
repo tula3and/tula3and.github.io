@@ -2,7 +2,7 @@
 title: "2020.11."
 docs: 
   - Docs
-last_modified_at: 2020-12-13
+last_modified_at: 2020-12-14
 author_profile: true
 ---
 November 2020 Review.<br/>
@@ -12,6 +12,7 @@ With [I Know You Can Dance - Chris James](https://youtu.be/yuE1nnYkCIA)
 
 Finally, our october's project is [in Full-Stack Quantum Computation](https://fullstackquantumcomputation.tech/blog/post-quantum-ugly-duckling/)!
 I am so happy that the post is on.
+(And I am in [the Qontributors list](https://fullstackquantumcomputation.tech/contributing/#qontributors)!)
 It took quite a long time for improving the words to make people understand easily.
 Appreciate for curators' work.
 I cannot forget this experience.
