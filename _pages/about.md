@@ -49,17 +49,17 @@ last_modified_at: 2021-01-11
 
 ## Keynotes
 
-> [**Women Who Code Seoul 2020**](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
+> [**Let's Quantum**](https://www.slideshare.net/DayeongKang/lets-quantum)
 
 - December 2020
-- Let's Quantum: [presentation](https://www.slideshare.net/DayeongKang/lets-quantum)
+- [Women Who Code Seoul 2020](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
 - Talked about my journey into the quantum world
 
-> **IBM C:LOUDERs**
+> [**From June to Now**](https://www.slideshare.net/DayeongKang/from-june-to-now)
 
 - August 2020
-- From June to Now: [presentation](https://www.slideshare.net/DayeongKang/from-june-to-now)
-- Talked about what I did from June to August 2020 in IBM C:LOUDERs
+- IBM C:LOUDERs
+- Talked about what I did from June to August
 
 ## Projects
 
