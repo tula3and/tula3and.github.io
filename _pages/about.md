@@ -33,6 +33,12 @@ last_modified_at: 2021-01-11
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
 
+> [**IBM Quantum Challenge - Fall 2020**](https://github.com/qiskit-community/IBMQuantumChallenge2020)
+
+- December 2020
+- Foundational Achievement: [badge](https://www.youracclaim.com/badges/a9904e72-22b7-43e2-84ef-95679d73f430?source=linked_in_profile)
+- Learned adder in quantum circuits and the basics of Grover's Algorithm
+
 > **IBM C:LOUDERs**
 
 *Project Manager*
