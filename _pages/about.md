@@ -11,29 +11,19 @@ last_modified_at: 2020-10-17
 
 ![about_header.png](https://github.com/tula3and/tula3and.github.io/blob/master/assets/images/about_header.png?raw=true)
 
-## **Education**
+## :mortar_board: **Education**
 
 > **Kyungpook National University**
 
 *Computer Science and Engineering*
 
 - March 2020 — Present
-- Cumulative GPA: 4.17 / 4.3
+- Cumulative GPA: 4.19 / 4.5
 - Undergraduate fellowship (merit-based)
     - Admission with highest distinction
     - Full tuition (granted for full semesters)
 
-## Activity
-
-> **IBM C:LOUDERs**
-
-*Project Manager*
-
-- July 2020 — Present
-- PM in self-organized study group, ZUA
-    - Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
-
-## **Project**
+## 🏃 Activities
 
 > **OCOL**
 
@@ -42,6 +32,30 @@ last_modified_at: 2020-10-17
 - August 2020 — Present
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
 - Write articles about security in [Medium](https://medium.com/ocol)
+
+> **IBM C:LOUDERs**
+
+*Project Manager*
+
+- July 2020 — December 2020
+- PM in self-organized study group, ZUA
+    - Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
+
+## 🎤 Keynotes
+
+> [**Women Who Code Seoul 2020**](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
+
+- December 2020
+- Let's Quantum: [presentation](https://www.slideshare.net/DayeongKang/lets-quantum)
+- Talked about my journey into the quantum world
+
+> **IBM C:LOUDERs**
+
+- August 2020
+- From June to Now: [presentation](https://www.slideshare.net/DayeongKang/from-june-to-now)
+- Talked about what I did from June to August 2020 in IBM C:LOUDERs
+
+## :star: Projects
 
 > [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
 
