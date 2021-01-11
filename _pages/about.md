@@ -47,20 +47,6 @@ last_modified_at: 2021-01-11
 - PM in self-organized study group, ZUA
 - Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
 
-## Keynotes
-
-> [**Let's Quantum**](https://www.slideshare.net/DayeongKang/lets-quantum)
-
-- December 2020
-- [Women Who Code Seoul 2020](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
-- Talked about my journey into the quantum world
-
-> [**From June to Now**](https://www.slideshare.net/DayeongKang/from-june-to-now)
-
-- August 2020
-- IBM C:LOUDERs
-- Talked about what I did from June to August
-
 ## Projects
 
 > [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
@@ -77,6 +63,26 @@ last_modified_at: 2021-01-11
 
 - May 2020 — July 2020
 - [An adventure game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) made with Unity2D
+
+## Keynotes
+
+> [**Let's Quantum**](https://www.slideshare.net/DayeongKang/lets-quantum)
+
+- December 2020
+- [Women Who Code Seoul 2020](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
+- Talked about my journey into the quantum world
+
+> [**Quantum teleportation with Qiskit**](https://www.slideshare.net/DayeongKang/quantum-teleportation-239032036)
+
+- October 2020
+- Modulabs (모두의 연구소)
+- Short description and codes with circuits of quantum teleportation: [details (kor)](https://tula3and.github.io/qiskit/qiskit-02-kor/)
+
+> [**From June to Now**](https://www.slideshare.net/DayeongKang/from-june-to-now)
+
+- August 2020
+- IBM C:LOUDERs
+- Talked about what I did from June to August
 
 ## Awards
 
