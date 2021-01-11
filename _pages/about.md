@@ -19,7 +19,7 @@ last_modified_at: 2021-01-11
 
 - March 2020 — Present
 - Cumulative GPA: 4.19 / 4.5
-- Undergraduate fellowship (merit-based)
+- Undergraduate fellowship (merit-based) (34,648,000 KRW)
     - Admission with highest distinction
     - Full tuition (granted for full semesters)
 
@@ -27,7 +27,7 @@ last_modified_at: 2021-01-11
 
 > **OCOL**
 
-*Editor*
+*Owner & Editor*
 
 - August 2020 — Present
 - Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
@@ -63,12 +63,31 @@ last_modified_at: 2021-01-11
 
 - October 2020
 - [Qiskit Hackathon Global 2020](https://github.com/tula3and/tula3and/blob/master/Certificate/ParticipationCertificate_QiskitHackathonGlobal_DayeongK.pdf)
-- Make a discord bot for qadjokes: [details](https://tula3and.github.io/hackathon/hackathon-discord/)
+- Made a discord bot for qadjokes: [details](https://tula3and.github.io/hackathon/hackathon-discord/)
 
 > [**Pie Planet**](https://github.com/tula3and/pie_planet)
 
-*Leader of Programming Team*
+*Lead Programmer*
 
 - May 2020 — July 2020
 - [An adventure game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) made with Unity2D
+
+## Awards
+
+> **KNU Code Fair (제 2회 KNU 코드페어)**
+
+*Team Leader & Lead Programmer*
+
+- November 2020
+- 4th place (250,000 KRW) from PRIME in Kyungpook National University
+- Made a webview app: [What to Eat Today](https://github.com/tula3and/rainbow-meal)
+
+> **슬기로운 컴학대회**
+
+*Developer*
+
+- November 2020
+- 2nd place (300,000 KRW) from PRIME in Kyungpook National University
+- Made a webview app: [For KNU newbies](https://github.com/tula3and/for-knu-newbies)
+
 
