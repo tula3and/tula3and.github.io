@@ -4,14 +4,14 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ? layouts_gallery
 :
-last_modified_at: 2020-10-17
+last_modified_at: 2021-01-11
 ---
 
 ---
 
 ![about_header.png](https://github.com/tula3and/tula3and.github.io/blob/master/assets/images/about_header.png?raw=true)
 
-## :mortar_board: **Education**
+## **Education**
 
 > **Kyungpook National University**
 
@@ -23,7 +23,7 @@ last_modified_at: 2020-10-17
     - Admission with highest distinction
     - Full tuition (granted for full semesters)
 
-## 🏃 Activities
+## Activities
 
 > **OCOL**
 
@@ -39,9 +39,9 @@ last_modified_at: 2020-10-17
 
 - July 2020 — December 2020
 - PM in self-organized study group, ZUA
-    - Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
+- Translated lectures in [Cognitive Class](https://cognitiveclass.ai/) with IBM Watson Translator
 
-## 🎤 Keynotes
+## Keynotes
 
 > [**Women Who Code Seoul 2020**](https://www.youtube.com/watch?v=8W0j0tgEGMk&feature=youtu.be)
 
@@ -55,7 +55,7 @@ last_modified_at: 2020-10-17
 - From June to Now: [presentation](https://www.slideshare.net/DayeongKang/from-june-to-now)
 - Talked about what I did from June to August 2020 in IBM C:LOUDERs
 
-## :star: Projects
+## Projects
 
 > [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
 
