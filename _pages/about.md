@@ -11,6 +11,10 @@ last_modified_at: 2021-01-12
 
 ![about_header.png](https://github.com/tula3and/tula3and.github.io/blob/master/assets/images/about_header.png?raw=true)
 
+[![tula3and](https://img.shields.io/badge/main-tula3and-blue)](https://www.notion.so/tula3and-f623816660834072bd8bc1a7a17ad515)
+[![cveng](https://img.shields.io/badge/eng-cv-ffce2b)](https://www.notion.so/CV-Dayeong-Kang-Eng-b471d5c6aee04caf83657d74b50f9e67)
+[![cvkor](https://img.shields.io/badge/kor-cv-ffce2b)](https://www.notion.so/CV-Dayeong-Kang-Kor-f52e0b31a6d146f1af36ec0f3e6aa248)
+
 ## **Education**
 
 > **Kyungpook National University**
