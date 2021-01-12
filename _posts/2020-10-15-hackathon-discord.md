@@ -7,11 +7,15 @@ tags:
   - Qiskit
   - Discord
   - Heroku
-last_modified_at: 2020-11-28
+last_modified_at: 2021-01-12
 author_profile: true
 ---
 I participated in Qiskit Hackathon Global, from October 5 to October 10.<br/>
 The entire code can be found in the github repository shared: [quantum-ugly-duckling](https://github.com/rochisha0/quantum-ugly-duckling).
+
+- Full-Stack Quantum Computation: [Make use of noisy hardware: Building a noisy quantum random number generator](https://fullstackquantumcomputation.tech/blog/post-quantum-ugly-duckling/)
+- Qiskit Medium: [These Amazing Quantum Computing Ideas Came Out Of Our Landmark Qiskit Hackathon Global](https://medium.com/qiskit/these-amazing-quantum-computing-ideas-came-out-of-our-landmark-qiskit-hackathon-global-905a0063f8e5)
+- Qiskit Medium: [Learn Quantum Computing With These Seven Projects](https://medium.com/qiskit/learn-quantum-computing-with-these-seven-projects-7478d90d125a)
 
 In this project, I made a website which is linked to the database with IBM Cloud.<br/>
 The database is for saving quantum-dadjoke, in short, qadjokes.<br/>
