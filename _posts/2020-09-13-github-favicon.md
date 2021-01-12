@@ -8,6 +8,9 @@ tags:
   - HTML
 last_modified_at: 2020-09-13
 author_profile: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 I want to change from just a gray icon to my tula icon.<br/>
 While googling some tutorials, I found the word, "favicon".
