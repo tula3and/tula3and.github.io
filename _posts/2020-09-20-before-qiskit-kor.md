@@ -9,6 +9,9 @@ sidebar:
   - nav: Qiskit Tutorial
 last_modified_at: 2020-10-24
 author_profile: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅시다.
 
