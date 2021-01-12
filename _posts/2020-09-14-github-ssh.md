@@ -9,6 +9,9 @@ tags:
   - Sourcetree
 last_modified_at: 2020-09-14
 author_profile: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 Let's generate a SSH key for Github.<br/>
 Then add it to Github and connect it with Sourcetree.<br/>
