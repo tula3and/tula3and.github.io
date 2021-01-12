@@ -9,6 +9,9 @@ tags:
   - Heroku
 last_modified_at: 2021-01-12
 author_profile: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 I participated in Qiskit Hackathon Global, from October 5 to October 10.<br/>
 The entire code can be found in the github repository shared: [quantum-ugly-duckling](https://github.com/rochisha0/quantum-ugly-duckling).
