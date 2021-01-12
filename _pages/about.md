@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ? layouts_gallery
 :
-last_modified_at: 2021-01-11
+last_modified_at: 2021-01-12
 ---
 
 ---
@@ -62,6 +62,7 @@ last_modified_at: 2021-01-11
 *Lead Programmer*
 
 - May 2020 — July 2020
+- [GIGDC 2020](http://www.gigdc.or.kr/main.php)
 - [An adventure game](http://www.gigdc.or.kr/game/item.php?it_id=1594202343&ca_id=3010&findType=it_name&findWord=PIE&page=1&sort1=&sort2=) made with Unity2D
 
 ## Keynotes
