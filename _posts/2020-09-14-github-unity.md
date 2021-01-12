@@ -9,6 +9,9 @@ tags:
   - Sourcetree
 last_modified_at: 2020-09-14
 author_profile: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 While I uploaded Unity project files, I faced a error.<br/>
 "`this is larger than GitHub's recommended maximum file size of 50.00 MB`"<br/>
