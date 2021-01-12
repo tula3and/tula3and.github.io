@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://tula3and.github.io/sitemap.xml
