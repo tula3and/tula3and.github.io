@@ -218,6 +218,7 @@ timezone: "Asia/Seoul" # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 ? collections
 : ? docs
   : output: true
+    sort_by: title
     permalink: /:collection/:path/
 
 # Plugins (previously gems:)
