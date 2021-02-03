@@ -112,9 +112,9 @@ og_image: # Open Graph/Twitter default site image
   location: "South Korea"
   email: "tula3and@gmail.com"
   ? links
-  : - label: "OCOL"
+  : - label: "tula3and"
       icon: "fas fa-fw fa-link"
-      url: "https://medium.com/ocol"
+      url: "https://www.notion.so/tula3and-f623816660834072bd8bc1a7a17ad515"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tula3and"
