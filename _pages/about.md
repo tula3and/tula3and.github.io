@@ -29,9 +29,9 @@ last_modified_at: 2021-01-12
 
 *Owner & Editor*
 
-- August 2020 — Present
-- Send [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
-- Write articles about security in [Medium](https://medium.com/ocol)
+- August 2020 — February 2021
+- Sent [newsletters](https://www.notion.so/OCOL-a7aa10edd95f42c586b23a5a536b9649) about security, IoT, and AI
+- Wrote articles about security in [Medium](https://medium.com/ocol)
 
 > [**IBM Quantum Challenge - Fall 2020**](https://github.com/qiskit-community/IBMQuantumChallenge2020)
 
