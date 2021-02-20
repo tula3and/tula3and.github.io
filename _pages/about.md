@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ? layouts_gallery
 :
-last_modified_at: 2021-01-12
+last_modified_at: 2021-02-20
 ---
 
 ---
@@ -49,9 +49,17 @@ last_modified_at: 2021-01-12
 
 ## Projects
 
+> [**Qoupang**](https://github.com/tula3and/qoupang)
+
+*Project Manager & Developer*
+
+- February 2021
+- Qiskit Hackathon Korea 2021
+- Quantum blockchain solution for logistics
+
 > [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
 
-*Developer*
+*Programmer*
 
 - October 2020
 - [Qiskit Hackathon Global 2020](https://github.com/tula3and/tula3and/blob/master/Certificate/ParticipationCertificate_QiskitHackathonGlobal_DayeongK.pdf)
@@ -87,9 +95,17 @@ last_modified_at: 2021-01-12
 
 ## Awards
 
+> **Qiskit Hackathon Korea 2021**
+
+*Project Manager & Developer*
+
+- February 2021
+- Community Choice Award
+- Suggested a quantum blockchain solution for logistics: [Qoupang](https://github.com/tula3and/qoupang)
+
 > **KNU Code Fair (제 2회 KNU 코드페어)**
 
-*Team Leader & Lead Programmer*
+*Project Manager & Lead Programmer*
 
 - November 2020
 - 4th place (250,000 KRW) from PRIME in Kyungpook National University
