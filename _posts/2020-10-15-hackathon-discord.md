@@ -4,6 +4,7 @@ categories:
   - Hackathon
 tags:
   - Hackathon
+  - Project
   - Qiskit
   - Discord
   - Heroku
