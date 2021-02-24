@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 ? layouts_gallery
 :
-last_modified_at: 2021-02-20
+last_modified_at: 2021-02-24
 ---
 
 ---
@@ -55,7 +55,7 @@ last_modified_at: 2021-02-20
 
 - February 2021
 - Qiskit Hackathon Korea 2021
-- Quantum blockchain solution for logistics
+- Quantum blockchain solution for logistics: [details](https://tula3and.github.io/hackathon/hackathon-blockchain/#)
 
 > [**Quantum Ugly Duckling**](https://github.com/rochisha0/quantum-ugly-duckling)
 
