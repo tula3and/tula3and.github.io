@@ -215,7 +215,12 @@ timezone: "Asia/Seoul" # https://en.wikipedia.org/wiki/List_of_tz_database_time_
 collections:
   docs:
     output: true
-    sort_by: lesson
+    order:
+      - 2021-02-06-monthly-jan.md
+      - 2020-12-31-monthly-dec.md
+      - 2020-12-13-monthly-nov.md
+      - 2020-11-02-monthly-oct.md
+      - 2020-10-15-monthly-sep.md
     permalink: /:collection/:path/
 
 # Plugins (previously gems:)
