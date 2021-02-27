@@ -7,7 +7,7 @@ tags:
   - Security
   - SSH
   - Sourcetree
-last_modified_at: 2020-09-14
+last_modified_at: 2021-02-27
 author_profile: true
 sitemap:
   changefreq: daily
@@ -44,7 +44,8 @@ You can see `Generating public/private rsa key pair.` and finish making your SSH
 Log in Github → Settings → SSH and GPG keys → New SSH key<br/>
 Then, paste your public key to the box.<br/>
 
-If you don't use Sourcetree, you have finished it!
+If you don't use Sourcetree, you have finished it!<br/>
+Test with `ssh -T git@github.com` to see the connection.
 
 ## 5. Connect it with Sourcetree
 
