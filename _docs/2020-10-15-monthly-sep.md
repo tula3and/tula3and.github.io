@@ -2,7 +2,6 @@
 title: "2020.09."
 docs:
   - Docs
-lesson: -1
 last_modified_at: 2020-10-15
 author_profile: true
 ---
