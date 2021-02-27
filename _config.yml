@@ -216,11 +216,11 @@ collections:
   docs:
     output: true
     order:
-      - 2021-02-06-monthly-jan.md
-      - 2020-12-31-monthly-dec.md
-      - 2020-12-13-monthly-nov.md
-      - 2020-11-02-monthly-oct.md
       - 2020-10-15-monthly-sep.md
+      - 2020-11-02-monthly-oct.md
+      - 2020-12-13-monthly-nov.md
+      - 2020-12-31-monthly-dec.md
+      - 2021-02-06-monthly-jan.md      
     permalink: /:collection/:path/
 
 # Plugins (previously gems:)
