@@ -1,6 +1,6 @@
 ---
 title: "Let's add a favicon to GitHub pages"
-categories: 
+categories:
   - Github
 tags:
   - Github
@@ -8,10 +8,11 @@ tags:
   - HTML
 last_modified_at: 2020-09-13
 author_profile: true
-sitemap :
-  changefreq : daily
-  priority : 1.0
+sitemap:
+  changefreq: daily
+  priority: 1.0
 ---
+
 I want to change from just a gray icon to my tula icon.<br/>
 While googling some tutorials, I found the word, "favicon".
 
@@ -39,4 +40,4 @@ After commit all these things, you can check your beautiful favicon!
 
 ---
 
-💬 *Any comments and suggestions will be appreciated.*
+💬 _Any comments and suggestions will be appreciated._

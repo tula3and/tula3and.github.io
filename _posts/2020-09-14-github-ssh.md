@@ -1,6 +1,6 @@
 ---
 title: "Generate a new SSH key and add it to Github"
-categories: 
+categories:
   - Github
 tags:
   - Github
@@ -9,10 +9,11 @@ tags:
   - Sourcetree
 last_modified_at: 2020-09-14
 author_profile: true
-sitemap :
-  changefreq : daily
-  priority : 1.0
+sitemap:
+  changefreq: daily
+  priority: 1.0
 ---
+
 Let's generate a SSH key for Github.<br/>
 Then add it to Github and connect it with Sourcetree.<br/>
 
@@ -29,6 +30,7 @@ If `id_rsa` and `id_rsa.pub` exist, you can pass step 2.
 ```
 $ ssh-keygen -t rsa -b 4096 -C "<your email>"
 ```
+
 You can see `Generating public/private rsa key pair.` and finish making your SSH key.
 
 ## 3. Copy the public key
@@ -51,4 +53,4 @@ Below SSH Client Configuration, change SSH Client to `OpenSSH`.
 
 ---
 
-💬 *Any comments and suggestions will be appreciated.*
+💬 _Any comments and suggestions will be appreciated._

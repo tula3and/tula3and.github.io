@@ -1,6 +1,6 @@
 ---
 title: "Make a discord bot for qadjokes"
-categories: 
+categories:
   - Hackathon
 tags:
   - Hackathon
@@ -10,10 +10,11 @@ tags:
   - Heroku
 last_modified_at: 2021-01-12
 author_profile: true
-sitemap :
-  changefreq : daily
-  priority : 1.0
+sitemap:
+  changefreq: daily
+  priority: 1.0
 ---
+
 I participated in Qiskit Hackathon Global, from October 5 to October 10.<br/>
 The entire code can be found in the github repository shared: [quantum-ugly-duckling](https://github.com/rochisha0/quantum-ugly-duckling).
 
@@ -35,6 +36,7 @@ Then make an app with Python. (I chose Python.)
 ```
 git clone https://github.com/IBM-Cloud/get-started-python
 ```
+
 ```
 cd get-started-python
 ```
@@ -61,6 +63,7 @@ Change HTML file for your website.
 ```
 cd static
 ```
+
 ```
 nano index.html
 ```
@@ -73,12 +76,15 @@ Then, come back to the main folder and let's deploy it.
 ```
 cd ..
 ```
+
 ```
 ibmcloud target --cf
 ```
+
 ```
 cf login
 ```
+
 ```
 cf push
 ```
@@ -166,7 +172,7 @@ If `runtime.txt` doesn't exist, you can meet `RuntimeError`.
 
 ![error](https://user-images.githubusercontent.com/62553200/96069480-439d3380-0ed9-11eb-9232-e7eaa688217e.png)
 
->You can follow all logs of your deployed app using `heroku logs --tail`.
+> You can follow all logs of your deployed app using `heroku logs --tail`.
 
 ---
 
@@ -190,9 +196,10 @@ Now you can see your bot is working well!
 ![working](https://github.com/rochisha0/quantum-ugly-duckling/blob/main/images/discord_test.gif?raw=true)
 
 If you are interested in our qadjoke bot, invite our lovely duck to your Discord server!
+
 - [Click it and invite Qadjoke bot!](https://discord.com/api/oauth2/authorize?client_id=763802062370111498&permissions=67584&scope=bot)
 - [Official Qadjoke bot server](https://discord.gg/3UdGBAC)
 
 ---
 
-💬 *Any comments and suggestions will be appreciated.*
+💬 _Any comments and suggestions will be appreciated._

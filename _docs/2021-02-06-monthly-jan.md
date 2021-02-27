@@ -1,10 +1,12 @@
 ---
 title: "2021.01."
-docs: 
+docs:
   - Docs
+lesson: -5
 last_modified_at: 2020-02-06
 author_profile: true
 ---
+
 January 2021 Review.<br/>
 With [VA-11 Hall-A (Original Soundtrack: Second Round)](https://youtube.com/playlist?list=OLAK5uy_n8kr8Qi9KS59dhRqYbSIPaNk8A1Fnnf_I)
 
@@ -42,6 +44,3 @@ However, ability is not important to select what I want to do.
 After I realized that, I think my past drawings which were not my belongings.
 Because of this, I started [Behance](https://www.behance.net/tula3and/) for saving my drawings.
 Plus, my design works.
-
-
-

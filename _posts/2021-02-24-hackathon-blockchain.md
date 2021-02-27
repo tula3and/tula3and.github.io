@@ -1,6 +1,6 @@
 ---
 title: "Blockchain with Qiskit: Qoupang"
-categories: 
+categories:
   - Hackathon
 tags:
   - Hackathon
@@ -10,10 +10,11 @@ tags:
   - Presentation
 last_modified_at: 2021-02-24
 author_profile: true
-sitemap :
-  changefreq : daily
-  priority : 1.0
+sitemap:
+  changefreq: daily
+  priority: 1.0
 ---
+
 I participated in Qiskit Hackathon Korea, from February 16 to February 19.<br/>
 Thankfully, our project, Qoupang, got the Community Choice Award!🎉<br/>
 The entire code can be found in the github repository shared: [qoupang](https://github.com/tula3and/qoupang).<br/>
@@ -64,4 +65,4 @@ A cute ugly duck became a delivery duck for Qoupang😆
 
 ---
 
-💬 *Any comments and suggestions will be appreciated.*
+💬 _Any comments and suggestions will be appreciated._

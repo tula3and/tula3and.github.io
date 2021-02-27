@@ -1,10 +1,12 @@
 ---
 title: "2020.11."
-docs: 
+docs:
   - Docs
+lesson: -3
 last_modified_at: 2020-12-14
 author_profile: true
 ---
+
 November 2020 Review.<br/>
 With [I Know You Can Dance - Chris James](https://youtu.be/yuE1nnYkCIA)
 

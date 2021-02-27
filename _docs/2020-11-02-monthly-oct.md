@@ -1,19 +1,21 @@
 ---
 title: "2020.10."
-docs: 
+docs:
   - Docs
+lesson: -2
 last_modified_at: 2020-11-02
 author_profile: true
 ---
+
 October 2020 Review.<br/>
 With The One - Sam Kim / [Live Performance](https://youtu.be/kvyq6JKOyME) / [Official Audio](https://youtu.be/qqyMt6PdHtc)
 
 ## My first hackathon
 
->Hello! I am Dayeong Kang from South Korea. I am a Freshman at Kyungpook National University, majoring in Computer Science and Engineering.
->I am especially interested in Security, so I want to do something about Quantum Cryptography in this Qiskit Hackathon.
->If your interest is similar with me, any dm will be appreciated😆
->Actually, this is my first Hackathon! Looking forward to meeting you all✨
+> Hello! I am Dayeong Kang from South Korea. I am a Freshman at Kyungpook National University, majoring in Computer Science and Engineering.
+> I am especially interested in Security, so I want to do something about Quantum Cryptography in this Qiskit Hackathon.
+> If your interest is similar with me, any dm will be appreciated😆
+> Actually, this is my first Hackathon! Looking forward to meeting you all✨
 
 This is my greeting in the hackathon.
 I did the project about a Quantum Random Number Generator using only noise.

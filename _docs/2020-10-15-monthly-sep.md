@@ -1,16 +1,18 @@
 ---
 title: "2020.09."
-docs: 
+docs:
   - Docs
+lesson: -1
 last_modified_at: 2020-10-15
 author_profile: true
 ---
+
 September 2020 Review.<br/>
 With [Bad Words - Tobias Jesso Jr.](https://youtu.be/ck0nthkUdCo)
 
 ## Can I ask a question?
 
->"If you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."<br/>- Friedrich Nietzsche, Twilight of the Idols
+> "If you wish to strive for peace of soul and pleasure, then believe; if you wish to be a devotee of truth, then inquire."<br/>- Friedrich Nietzsche, Twilight of the Idols
 
 There are a lot of different life values for each person.
 Some people might think the best thing is being happy or others might not.

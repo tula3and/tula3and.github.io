@@ -1,10 +1,12 @@
 ---
 title: "2020.12."
-docs: 
+docs:
   - Docs
+lesson: -4
 last_modified_at: 2020-12-31
 author_profile: true
 ---
+
 December 2020 Review.<br/>
 With [Alone - Heart](https://youtu.be/1Cw1ng75KP0)
 
@@ -42,6 +44,3 @@ To invest all my potentials, I literally get a rest for myself.<br/>
 12월 휴가 때문에 미뤄둔 일을 이제 내일부터는 하나씩 다시 시작해보자.
 2020년처럼 후회하지 않을 2021년을 만들기 위해. 최선을 다해서 다시 달려보자!!!!!
 (Github 잔디도 다시 채우고 말이다.)
-
-
-
