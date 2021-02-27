@@ -124,9 +124,6 @@ og_image: # Open Graph/Twitter default site image
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dayeong-kang-56b1771b4/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/dayeong.kang.545"
 # Site Footer
 ? footer
 : ? links
@@ -299,8 +296,6 @@ timezone: "Asia/Seoul" # https://en.wikipedia.org/wiki/List_of_tz_database_time_
       type: docs
     ? values
     : layout: single
-      sort_by: title
-      sort_order: reverse
       author_profile: true
       read_time: false
       comments: true
