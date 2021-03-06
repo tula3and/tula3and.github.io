@@ -8,7 +8,7 @@ tags:
   - Qiskit
   - Blockchain
   - Presentation
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-06
 author_profile: true
 sitemap:
   changefreq: daily
@@ -19,7 +19,7 @@ I participated in Qiskit Hackathon Korea, from February 16 to February 19.<br/>
 Thankfully, our project, Qoupang, got the Community Choice Award!🎉<br/>
 The entire code can be found in the github repository shared: [qoupang](https://github.com/tula3and/qoupang).<br/>
 
-In this project, I worked as a project manager on this project.<br/>
+In this project, I worked as a project manager.<br/>
 Therefore, I delivered [the presentation](https://www.slideshare.net/DayeongKang/qoupang) of the project and made a QRNG also!<br/>
 
 ## Motivation of this project
