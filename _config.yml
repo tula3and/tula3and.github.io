@@ -295,10 +295,9 @@ defaults:
       path: ""
       type: docs
     values:
-      layout: collection
+      layout: single
       author_profile: true
       read_time: false
       comments: true
       share: true
       related: true
-      sort_order: reverse
