@@ -1,5 +1,5 @@
 ---
-title: "What is quantum cryptography?"
+title: "What is quantum cryptography? (풀잎스쿨 14기)"
 categories:
   - Cryptography
 tags:
@@ -7,7 +7,7 @@ tags:
   - Quantum Computing
   - RSA
   - Quantum Key Distribution
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-27
 author_profile: true
 sitemap:
   changefreq: daily
@@ -91,6 +91,10 @@ The results are exactly same each other after removing the positions which base 
 - [David McMahon: Quantum Computing Explained (ISBN 9780470096994) (translated in Korean)](http://acornpub.co.kr/book/quantum-explained)
 - [My til: RSA algorithm](https://github.com/tula3and/til/blob/master/Cryptography/RSA-algorithm.md#rsa-algorithm)
 - [Wikipedia: Bell state](https://en.wikipedia.org/wiki/Bell_state)
+
+---
+
+'본 포스팅은 모두의연구소(home.modulabs.co.kr) 풀잎스쿨에서 진행된 'QML 이해를 위한 QC 입문(Part1)' 과정 내용을 공유 및 정리한 자료입니다.'
 
 ---
 
