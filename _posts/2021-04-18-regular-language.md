@@ -57,7 +57,7 @@ The image below is an automaton M(r) accepts L((1 + 01)*(0 + λ)).
 
 ![nfa](https://user-images.githubusercontent.com/62553200/115142562-6de4cf00-a07d-11eb-9eb6-25795012db25.png)
 
-## Find non-regular: pumping lemma
+## Find non-regular languages: pumping lemma
 
 Regular languages are empty, finite, or infinite, but not all infinite ones are regular.
 We need a method to figure infinite non-regular languages out: pumping lemma.<br/>
