@@ -29,7 +29,7 @@ REXs have NFA (or DFA). Conversion proceeds with a generalized transition graph 
 - NFA (or DFA) can make REXs.
 
 A GTG must be a complete one which all edges are present, so
-Missing edges should be defined as undefined (Ø).
+missing edges should be defined as undefined (Ø).
 From every GTG with more than two states, we can also find an arbitary GTG: a GTG with only two states.
 The remains are the initial state and a final state.<br/>
 
@@ -60,7 +60,7 @@ The image below is an automaton M(r) accepts L((1 + 01)*(0 + λ)).
 ## Find non-regular: pumping lemma
 
 Regular languages are empty, finite, or infinite, but not all infinite ones are regular.
-We need a method to figure infinite regular languages out: pumping lemma.<br/>
+We need a method to figure infinite non-regular languages out: pumping lemma.<br/>
 
 Let L be an infinite regular language.
 Then there exists some positive m such that any w ∈ L with ![](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%5Csmall%20%7Cw%7C%20%5Cgeq%20m)
@@ -68,10 +68,14 @@ can be decomposed as w = xyz with ![](https://latex.codecogs.com/gif.latex?%5Cfn
 and ![](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%5Csmall%20%7Cy%20%7C%5Cgeq%201)
 such that ![](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%5Csmall%20w_%7Bi%7D%20%3D%20xy%5Eiz) is also in L
 for i = 0, 1, 2, ...
+While i keeps growing, if there is only one value of i that does not fit to the language definition,
+the language is not regular and it is called y cannot be "pumped".
+Therefore, we can determine only non-regular languages with pumping lemma, not regular ones.
 
 ## References
 
 - [Wikipedia: Regular language](https://en.wikipedia.org/wiki/Regular_language)
+- [Wikipedia: Pumping lemma for regular languages](https://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages)
 
 ---
 
