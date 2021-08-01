@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 July 2021 Review.<br/>
-With [유희열 소품집 `여름날`](https://youtube.com/playlist?list=OLAK5uy_nRYK5A1JvQWhiACp4XBXkTPRsD6F7V-sc)
+With [유희열 소품집 '여름날'](https://youtube.com/playlist?list=OLAK5uy_nRYK5A1JvQWhiACp4XBXkTPRsD6F7V-sc)
 
 ## Took a test for the application
 
@@ -22,7 +22,7 @@ Now, I just wait for the announcement from Qiskit official.
 ## My projects with Qiskit
 
 I presented [`My Projects with Qiskit`](https://www.slideshare.net/DayeongKang/my-projects-with-qiskit)
-in the first anniversary of Full-Stack Quantum Computation: https://fullstackquantumcomputation.tech/anniversary/.
+in the first anniversary of Full-Stack Quantum Computation: [https://fullstackquantumcomputation.tech/anniversary/](https://fullstackquantumcomputation.tech/anniversary/).
 While preparing, I could organize my projects related Qiskit once again and
 also review my quantum journey with Qiskit started from October 2020.
 My quantum one-year anniversary is also getting closer!
@@ -34,4 +34,5 @@ Because of the pendemic, I cannot go abroad for the summer vacation but I found 
 ![summer](https://user-images.githubusercontent.com/62553200/127771611-e5ca4a6d-ee65-42de-bec6-7ad662eeea19.jpg)
 
 It is in the middle of the mountain at Chuncheon.
-I spent the time with my best friend and it was JUST PERFECT!
+I spent the time with my best friend and it was JUST PERFECT.
+I cannot wait for going there with her again!
