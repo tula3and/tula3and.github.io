@@ -1,5 +1,5 @@
 ---
-title: "First contribution to Qiskit Metal"
+title: "First pull request to Qiskit Metal"
 categories:
   - Project
 tags:
@@ -23,8 +23,8 @@ I sent a PR as a "draft" to Qiskit Metal for the first time:
 I joined in this project, [cloud-ready](https://github.com/qiskit-advocate/qamp-fall-21/issues/16), related to my first advocate activity, QAMP.
 The mentor, Marco, specified several things of the project and I had chosen an import issue as a top priority among them.
 It is an import error and this occurs when executing `import qiskit_metal` in the cloud environment.
-Our main project is providing Qiskit Metal as a service, similar to Composer or Lab in IBM Quantum: https://quantum-computing.ibm.com/.
-Therefore, it is quite critical error which must be solved.
+Our main project is providing Qiskit Metal as a service, similar to Composer or Lab in IBM Quantum: [https://quantum-computing.ibm.com/](https://quantum-computing.ibm.com/).
+Therefore, it is a quite critical error which must be solved.
 
 ## How I figured out the issue
 
@@ -65,7 +65,7 @@ I used Anaconda so I do not have any error with PySide2 in my local.
 Hence, I removed it and then checked other programs work well.
 And... `import qiskit_metal` executed fine. No errors!
 
-*This PR must be fixed to merge, but I just want to leave a log for the FIRST offical PR.
+*This PR must be fixed to merge, but I just want to leave a log for my FIRST offical PR.
 
 ---
 
