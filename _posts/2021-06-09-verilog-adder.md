@@ -12,7 +12,12 @@ sitemap:
   priority: 1.0
 ---
 
-Let's design adder circuits with Verilog: [download link](http://bleyer.org/icarus/).
+Let's design adder circuits with Verilog. There are several options below to execute codes.
+
+- Icarus Verilog: [http://bleyer.org/icarus/](http://bleyer.org/icarus/)
+- Vivado: [https://www.xilinx.com/support/download.html](https://www.xilinx.com/support/download.html)
+- Compile and Execute Verilog Online: [https://www.tutorialspoint.com/compile_verilog_online.php](https://www.tutorialspoint.com/compile_verilog_online.php)
+
 I made two different examples each adder: using (1) dataflow and (2) gatelevel modeling.<br/>
 
 ## Half adders
