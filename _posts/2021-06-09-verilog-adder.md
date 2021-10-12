@@ -3,9 +3,10 @@ title: "Design of adders using Verilog"
 categories:
   - Computer Science
 tags:
+  - Hardware
   - Verilog
   - Circuit
-last_modified_at: 2021-06-09
+last_modified_at: 2021-10-12
 author_profile: true
 sitemap:
   changefreq: daily
@@ -14,7 +15,7 @@ sitemap:
 
 Let's design adder circuits with Verilog. There are several options below to execute codes.
 
-- Icarus Verilog: [http://bleyer.org/icarus/](http://bleyer.org/icarus/)
+- Icarus Verilog (I use this in this post): [http://bleyer.org/icarus/](http://bleyer.org/icarus/)
 - Vivado: [https://www.xilinx.com/support/download.html](https://www.xilinx.com/support/download.html)
 - Compile and Execute Verilog Online: [https://www.tutorialspoint.com/compile_verilog_online.php](https://www.tutorialspoint.com/compile_verilog_online.php)
 
@@ -91,13 +92,17 @@ endmodule
 ## Testbench
 
 ```verilog
-module test_bench;
+module test_bench; // stimulus name is free
 
 reg x, y, z;  // input
 wire S1, C1, S2, C2; // output
 
 dataflow_half_adder HA (x, y, S1, C1); // dataflow_half_adder.v port
 dataflow_full_adder FA (x, y, z, S2, C2); // dataflow_half_adder.v port
+
+// named mapping (.<module>(<current>))
+// dataflow_half_adder HA (.A(x), .B(y), .S(S1), .C(C1)); // dataflow_half_adder.v port
+// dataflow_full_adder FA (.x(x), .y(y), .z(z), .S(S2), .C(C2)); // dataflow_half_adder.v port
 
 // gatelevel_half_adder HA (x, y, S1, C1); // gatelevel_half_adder.v port
 // gatelevel_full_adder FA (x, y, z, S2, C2); // gatelevel_half_adder.v port
