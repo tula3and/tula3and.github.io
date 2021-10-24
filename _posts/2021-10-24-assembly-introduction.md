@@ -119,15 +119,15 @@ Especially, `x1` is only for returning the point of origin, so every procedure c
 
 Then, where should the computer save parameters or results if the spaces are full?
 It can be possiable when a procedure calls other procedures again and again. (e.g. recursive functions)
-Therefore, use register spilling to prevent the situation.
+Therefore, use `register spilling` to prevent the situation.
 It just saves values from the registers to memory with the data structure, `stack`.
-The stack pointer is saved in register `x2` and the pointer moves from high to low address, so
+The stack pointer is saved in register `x2` and the pointer moves from higher to lower address, so
 before saving data, do not forget to move the pointer by `addi sp, sp, -<size>`.
 
 In each procedure call:
 
-- Caller saves from `x5` to `x7` and from `x28` to `x31`.
-- Callee saves from `x8` to `x9` and from `x18` to `x27`.
+- Caller saves from `x10` to `x17` (arguments), from `x5` to `x7`, and from `x28` to `x31`.
+- Callee saves `x1` (return address), from `x8` to `x9`, and from `x18` to `x27`.
 
 A recursive procedure is a good example to understand above the all. Check the codes below.
 
