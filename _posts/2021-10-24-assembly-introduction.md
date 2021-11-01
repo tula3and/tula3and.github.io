@@ -5,7 +5,7 @@ categories:
 tags:
   - Assembly
   - Language
-last_modified_at: 2021-10-24
+last_modified_at: 2021-11-01
 author_profile: true
 sitemap:
   changefreq: daily
@@ -126,8 +126,8 @@ before saving data, do not forget to move the pointer by `addi sp, sp, -<size>`.
 
 In each procedure call:
 
-- Caller saves from `x10` to `x17` (arguments), from `x5` to `x7`, and from `x28` to `x31`.
-- Callee saves `x1` (return address), from `x8` to `x9`, and from `x18` to `x27`.
+- Caller saves `x1` (return address), from `x10` to `x17` (arguments), from `x5` to `x7`, and from `x28` to `x31`.
+- Callee saves from `x8` to `x9`, and from `x18` to `x27`.
 
 A recursive procedure is a good example to understand above the all. Check the codes below.
 
