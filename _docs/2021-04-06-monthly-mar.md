@@ -30,7 +30,7 @@ I presented quantum cryptography at modulabs.
 Cryptography is one of my interests so it is glorious while preparing this presentation.
 From this knowledge, I will connect it with real codes, QKD.
 Therefore, my next plan is to make a keynote with QKD codes.
-*Details of quantum crytography that I wrote is here: https://tula3and.github.io/cryptography/quantum-cryptography/#
+*Details of quantum crytography that I wrote is here: [https://tula3and.github.io/cryptography/quantum-cryptography](https://tula3and.github.io/cryptography/quantum-cryptography/#)
 
 ## Writeups
 
