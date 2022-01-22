@@ -34,7 +34,7 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 이러한 Qubit의 상태를 표현하기 위해 `확률`의 개념이 도입됩니다.<br/>
 이때의 확률이란 건 0과 1에 부여된 각각의 `확률 진폭(probability amplitude)`을 이용해서 구할 수 있습니다.
 
-확률 진폭 ![r](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20r)은 하나의 복소수 값으로,
+확률 진폭 \\(r\\)은 하나의 복소수 값으로,
 ![복소수](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20r%3Da+bi)의 형태로 나타낼 수 있습니다.<br/>
 확률 진폭의 켤레 복소수를 이용하여, 확률 ![p](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20p)를 구합니다.<br/>
 
