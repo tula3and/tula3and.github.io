@@ -34,11 +34,13 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 이러한 Qubit의 상태를 표현하기 위해 `확률`의 개념이 도입됩니다.<br/>
 이때의 확률이란 건 0과 1에 부여된 각각의 `확률 진폭(probability amplitude)`을 이용해서 구할 수 있습니다.
 
-확률 진폭 \\(r\\)은 하나의 복소수 값으로,
+확률 진폭 $r$은 하나의 복소수 값으로,
 ![복소수](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20r%3Da+bi)의 형태로 나타낼 수 있습니다.<br/>
 확률 진폭의 켤레 복소수를 이용하여, 확률 ![p](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20p)를 구합니다.<br/>
 
-![수식](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20p%20%3D%20%7C%7Cr%7C%7C%5E2%20%3D%20%28a+bi%29%28a-bi%29%20%3D%20a%5E2+b%5E2)<br/>
+$$
+p = || r ||^2 = (a+bi)(a-bi) = a^2+b^2
+$$
 
 위의 수식으로 확률 진폭의 값이 ![확률 진폭](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20a+bi)일 때,
 확률의 값은 ![확률](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20a%5E2+b%5E2)인 것을 알 수 있습니다.<br/>
@@ -49,7 +51,9 @@ Qiskit을 경험해보기 전에, 양자 컴퓨팅에 대해서 살짝 알아봅
 
 그래서 Qubit &psi;에 대해 아래와 같이 두 가지 방법으로 나타낼 수 있습니다.<br/>
 
-![수식1](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%7C%5Cpsi%20%3E%20%3D%20%5Calpha%7C0%3E+%5Cbeta%7C1%3E)<br/>
+\\[
+|\psi> = \binom{\alpha }{\beta }
+]\\
 
 ![수식2](https://latex.codecogs.com/gif.latex?%5Cfn_jvn%20%7C%5Cpsi%20%3E%20%3D%20%5Cbinom%7B%5Calpha%7D%7B%5Cbeta%7D)<br/>
 
