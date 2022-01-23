@@ -1,7 +1,7 @@
 ---
 title: "Command injection"
 categories:
-  - Web Hacking
+  - Security
 tags:
   - Web
   - Command
