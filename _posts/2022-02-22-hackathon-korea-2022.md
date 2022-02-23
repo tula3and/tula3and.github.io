@@ -41,8 +41,8 @@ I made a poster to introduce the event with the image I drew. (I really love the
 
 ## During the hackathon
 
-1. How to contribute to Qiskit: I had a presentation on making real contributions with Github at the first day of the hackathon
-The video was on my Youtube channel: [Qiskit에 기여하기 실전 편](https://youtu.be/5cSdM5nBJ60).
+1. How to contribute to Qiskit: I had a presentation on making real contributions with Github at the first day of the hackathon.
+The presentation is on my Youtube channel: [Qiskit에 기여하기 실전 편](https://youtu.be/5cSdM5nBJ60).
 2. Project pitch: I want to make QPong online and opened the issue, but it did not work well. (Members were not enough...)
 I will try to make it online in this year.
 3. Mentors of [quantum-meets-hangul](https://github.com/jhlee29/quantum-meets-hangul): I joined one project as a mentor and it was related to QML.
