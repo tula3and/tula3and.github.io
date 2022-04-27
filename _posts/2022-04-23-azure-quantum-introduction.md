@@ -74,8 +74,8 @@ namespace QRNG {
 
     open Microsoft.Quantum.Canon;
     open Microsoft.Quantum.Intrinsic;
-		// import measurement
-		open Microsoft.Quantum.Measurement;
+    // import measurement
+    open Microsoft.Quantum.Measurement;
     
     @EntryPoint()
     operation GenerateRandomBit() : Result {
