@@ -49,6 +49,9 @@ MLSA/GCE의 첫 로컬 써밋! 올초에 MLSA가 되고 난 뒤,
 
 ## Quantum Challenge is back
 
-Next week is for [Quantum Challenge](https://challenges.quantum-computing.ibm.com/spring-2022) again!
-At this time, it is focused exactly on Professor Feynman's vision, simulating chemistry and many-body systems with four inviting challenges to solve.
-Welcome everyone who is interested in Qiskit and quantum computing!
+The last week of this month was for the [Quantum Challenge](https://challenges.quantum-computing.ibm.com/spring-2022) again!
+I participated in this challenge as a mentor and prepared a lecture for challenge 4: [2022 IBM Quantum Spring Challenge Guide lecture](https://youtu.be/oMOuaOnG57A).
+I also wrote a post in my blog with this topic: [Qiskit Nature를 통한 양자화학 맛보기](https://tula3and.github.io/qiskit/qiskit-07-kor/).
+I did not know anything about quantum chemistry, but while preparing this lecture, I've learned a lot.
+I am already looking forward the next challenge!
+
