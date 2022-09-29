@@ -63,7 +63,11 @@ In this post, I will introduce two of them; M3 and DD.
 M3 is matrix-free measurement error mitigation.
 When you execute a quantum circuit in a certain quantum hardware,
 you can get a matrix $\vec{P}$ as a result. If you know the ideal result $\vec{Q}$, you can calculate a matrix $\vec{A}$ defined in the below.
-$$\vec{P} = \vec{A} \cdot \vec{Q}$$
+
+$$
+\vec{P} = \vec{A} \cdot \vec{Q}
+$$
+
 From $\vec{A}$, you can compute $A^{-1}$ and it means you can find an ideal result of any result from this quantum hardware.
 However, the bigger the matrix size, the more difficult it is to find $A^{-1}$.
 It's a good time to apply M3 to lower the matrix size for easy calculation.
