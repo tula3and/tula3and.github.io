@@ -27,8 +27,8 @@ However, quantum computers are still not safe for this kind of belief
 because we are living in the noisy intermediate-scale quantum (NISQ) era.
 Any result from real quantum computer (or hardware) has a noise so the result is different from what you expected.
 
-It is completely fine that you already know the right result but mostly,
-we use computers to solve problems that we do not know the correct answer.
+It is completely fine that you already know the correct result but mostly,
+we use computers to solve problems that we do not know the answer.
 Thankfully, there is a way to decrease the noise.
 That's what error mitigation is for!
 We can reduce the noise with error mitigation and there are various techniques which are still under research.
@@ -70,13 +70,15 @@ $$
 
 From $\vec{A}$, you can compute $A^{-1}$ and it means you can find an ideal result of any result from this quantum hardware.
 However, the bigger the matrix size, the more difficult it is to find $A^{-1}$.
-It's a good time to apply M3 to lower the matrix size for easy calculation.
+In this case it is nice to apply M3 to lower the matrix size for easy calculation.
 
 DD is dynamical decoupling.
 This method helps to maintain states of idle qubits.
 If a qubit is idle, its information is lost by interactions with the surroundings.
-In this situation, you may think about applying DD; it puts several quantum gates to idle qubits.
-Note that any series of newly added gates should not change the original intended outcome.
+(This kind of situation is called quantum decoherence.)
+To prevent idle state, DD puts several quantum gates to the idle qubit.
+Note that any series of newly added gates should not change the original intended outcome
+which means the result must be logically same.
 
 For detailed explanation, you may check this two videos from Nick Knows of Qiskit Youtube.
 
