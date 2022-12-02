@@ -13,7 +13,9 @@ sitemap:
     priority: 1.0
 ---
 
-Finally [the IBM Quantum Challenge Fall 2022](https://tula3and.github.io/experience/ibm-quantum-challenge-fall/#) is finished!
+Let's understand Primitives in Qiskit Runtime with a summary of Lab 1 in the IBM Quantum Challenge Fall 2022.
+
+Finally [the IBM Quantum Challenge Fall 2022](https://tula3and.github.io/experience/ibm-quantum-challenge-fall/#) is finished! 🥳
 Every challenge is always interesting, but this time is even more than the usual.
 The reason why is that I joined as one of team members preparing this event.
 I contributed 3 labs among 4 labs in total.
