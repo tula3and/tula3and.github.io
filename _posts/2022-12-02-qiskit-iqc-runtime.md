@@ -27,7 +27,7 @@ Introduction to Primitives on Qiskit Runtime.
 In Qiskit Runtime,
 Primitives are a kind of basement of the program.
 There are two Primitives for now: the Sampler and the Estimator.
-Which primitive to use totally depends on your purpose.
+Which Primitive to use totally depends on your purpose.
 
 The Sampler is for sampling probability distributions so the result might look very similar
 to the one when you receive after executing quantum circuits.
