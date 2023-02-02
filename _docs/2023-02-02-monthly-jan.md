@@ -6,7 +6,7 @@ last_modified_at: 2023-02-02
 author_profile: true
 ---
 
-January 2022 Review.<br/>
+January 2023 Review.<br/>
 With [花人局 / 春泥棒 - ヨルシカ](https://youtu.be/Ht6lcYg9Zfo)
 
 ## Official tutorial written by me
